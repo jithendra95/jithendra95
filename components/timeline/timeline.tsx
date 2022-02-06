@@ -6,7 +6,7 @@ const Timeline: React.FC = (): JSX.Element => {
     return (
         <div className='flex flex-row justify-center w-full'>
             <div className='flex flex-col my-20 w-2/5'>
-                <div className='rounded-xl bg-gray-700 w-full mt-20 text-black'>
+                <div className='rounded-xl bg-gray-700 w-full mt-20 text-black scroll-animation'>
                     <div className='flex flex-row pt-2 text-green-500 justify-between'>
                         <div className='font-bold text-base pl-3'>Senior Software Engineer</div>
                         <div className='font-bold italic text-xs pl-3 pt-1 pr-3'>Jan 2021 - Present | 1yr</div>
@@ -55,7 +55,7 @@ const Timeline: React.FC = (): JSX.Element => {
                 </div>
 
 
-                <div className='rounded-xl bg-gray-700 w-full mt-96 text-black'>
+                <div className='rounded-xl bg-gray-700 w-full mt-96 text-black scroll-animation'>
                     <div className='flex flex-row pt-2 text-green-500 justify-between'>
                         <div className='font-bold text-base pl-3'>Trainee Software Engineer</div>
                         <div className='font-bold italic text-xs pl-3 pt-1 pr-3'>Feb 2015 - May 2019 | 4yrs  4mos</div>
@@ -131,7 +131,7 @@ const Timeline: React.FC = (): JSX.Element => {
             </div>
 
 
-            <div className='flex flex-col items-center my-20 w-2/5'>
+            <div className='flex flex-col items-center my-20 w-2/5 scroll-animation'>
                 <div className='rounded-xl bg-gray-700 w-full mt-80 text-black'>
                     <div className='flex flex-row pt-2 text-green-500 justify-between'>
                         <div className='font-bold text-base pl-3'>Software Engineer</div>

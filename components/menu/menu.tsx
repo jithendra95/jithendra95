@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 enum Position{
     left =1,
     right = 2,
@@ -20,8 +22,8 @@ const Menu: React.FC<MenuProps> = (): JSX.Element => {
     <div className='bg-gray-700 p-3 w-full h-30 text-white flex flex-row justify-between font-semibold sticky top-0 z-50'>
         <div className='text-xl  w-1/5'>Jithendra Thenuwara</div>
         <div className='flex flex-row justify-center w-3/5 cursor-pointer'>
-            <span className='hover:text-gray-400 px-3 py-1 bg-green-600'> Introduction</span>
-            <span className='hover:text-gray-400 px-3 py-1'> Experience</span>
+        <Link  href='/#skills'><span className='hover:text-gray-400 px-3 py-1 bg-green-600'> Skills</span></Link>
+            <Link  href='/#experience'><span className='hover:text-gray-400 px-3 py-1'> Experience</span></Link>
             <span className='hover:text-gray-400 px-3 py-1'> Qualifications</span>
         </div>
 
