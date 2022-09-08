@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Working as a Lead Software Engineer at IFS R&D (Pvt) Ltd.
+- 🎓 &nbsp; Working as a Software Engineer at Redgate Software - Cambridge, UK.
 
 
 ### 🛠 &nbsp;Tech Stack
