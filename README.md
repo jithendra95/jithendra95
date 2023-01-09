@@ -40,8 +40,8 @@
 ## My Stats
 <p>
 <a href="https://github.com/jithendra95">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jithendra95&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jithendra95&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jithendra95&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jithendra95&theme=radical&layout=compact&count_private=true" />
 </a>
 </p>
 
