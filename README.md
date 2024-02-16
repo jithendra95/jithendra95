@@ -11,11 +11,12 @@
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+ 
   ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=csharp)
   ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -36,14 +37,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
-## My Stats
-<p>
-<a href="https://github.com/jithendra95">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jithendra95&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jithendra95&theme=radical&layout=compact&count_private=true" />
-</a>
-</p>
 
 
 ##  🤝🏻 &nbsp;Connect with Me
