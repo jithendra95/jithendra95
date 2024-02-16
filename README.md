@@ -11,7 +11,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
-  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=csharp)
+  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
   ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
