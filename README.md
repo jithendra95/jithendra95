@@ -13,15 +13,12 @@
 - 🌐 &nbsp;
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
   ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   
 - 🛢 &nbsp;
